@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.whatsapp_ui">
+    package="com.srinivasan.whatsapp_ui">
    <application
         android:label="whatsapp_ui"
         android:icon="@mipmap/ic_launcher">
